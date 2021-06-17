@@ -1,0 +1,2 @@
+This program generates an input that you can feed into pwnable's `bof` challenge and (hopefully) get its flag.
+
